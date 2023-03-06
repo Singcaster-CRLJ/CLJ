@@ -115,12 +115,11 @@ L'indentation doit être faite avec des tabulations représentant 2 espaces.
 
 L'accolade ouvrante ( `{` ) doit être à la fin de la ligne et précédé d'un espace.
 
-Les accolades sont obligatoires même lorsqu'elles sont optionnelles dans le langage (par exemple, if juste sur une ligne). Vous pouvez déroger de cette règle, mais dans ce cas, soyez constant.
+Il est préférable d'utiliser des accolades même lorsqu'elles sont optionnelles dans le langage
 
 ```cpp
 if (condition) {
-// {
-  return 40 + 2;
+  instruction();
 }
 ```
 
