@@ -29,3 +29,9 @@ Patienter pendant l'installation :
 Les outils de développement C/C++ sont maintenant installés :
 
 ![](../Images/WINBuildTools5.png)
+
+## Terminal
+
+Créer un raccourci sur le bureau, ou dans la barre des tâche, du terminal de développement:
+
+- x64 Native Tools Command Prompt for VS 2022
