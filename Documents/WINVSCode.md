@@ -40,6 +40,8 @@ Visual Studio Code est maintenant installé, cliquer sur le bouton « Terminer �
 
 ## Extensions
 
-Dans l'onglet « Extensions » de Visual Studio Code, rechercher et installer les extensions « C/C++ Extension Pack » et « Doxygen Documentation Generator » :
+Lors du premier démarrage, il est fort probable que Visual Studio Code demande d'installer le « Pack de langage » selon la langue de votre système d'exploitation.
+
+Dans l'onglet « Extensions » de Visual Studio Code, rechercher et installer aussi les extensions « C/C++ Extension Pack » et « Doxygen Documentation Generator ».
 
 ![](../Images/WINVSCode8.png)

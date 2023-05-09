@@ -8,6 +8,7 @@ Normes départementales :
 
 - [Programmation](Documents/Normes.md)
 - [Documentation](Documents/Doxygen.md)
+- [Versions](Documents/Git.md)
 
 # Guides
 
