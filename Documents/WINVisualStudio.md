@@ -22,7 +22,7 @@ Cocher les options suivantes de la section « Bureau et mobile » :
 
 ![](../Images/WINVisualStudio3.png)
 
-Cocher les options suivantes de la section « Autres ensembles d'outils » et cliquer sur le bouton « Installer » :
+Cocher les options suivantes des sections « Jeux » et « Autres ensembles d'outils », et cliquer sur le bouton « Installer » :
 
 ![](../Images/WINVisualStudio4.png)
 
