@@ -6,7 +6,7 @@ Système de gestion de versions.
 
 Télécharger le programme d'installation de Git :
 
-https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/Git-2.39.1-64-bit.exe
+https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.exe
 
 ## Installation
 
