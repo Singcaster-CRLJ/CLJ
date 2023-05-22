@@ -11,7 +11,7 @@ Bibliothèque graphique Simple Direct Layer 2.
 Glisser le contenu du fichier téléchargé dans le sous-dossier:
 
 ```
-C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.35.32215\
+C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.36.32532\
 ```
 
-*Le nom du sous-dossier peut différer selon la version des outils de compilation.*
+*Le nom du sous-dossier peut différer avec une version plus à jour des outils de compilation.*
