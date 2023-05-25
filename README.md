@@ -21,7 +21,7 @@ Guides d'installation :
 ## Windows
 
 - [Outils de développement C/C++](Documents/WINBuildTools.md)
-- [Bibliothèque SDL2](Documents/WINSDL2.md)
+- [Bibliothèques SDL2 et GLEW](Documents/WINSDL2.md)
 - [Visual Studio Code](Documents/WINVSCode.md)
 - [Visual Studio Community 2022](Documents/WINVisualStudio.md)
 - [Git](Documents/WINGit.md)
