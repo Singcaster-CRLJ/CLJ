@@ -35,3 +35,4 @@ Fichiers utilitaires :
 - [Projet C sous Visual Studio Code](Files/WINVSCodeCProject.zip)
 - [Projet C++ sous Visual Studio Code](Files/WINVSCodeCPPProject.zip)
 - [Projet C++ avec la bibliothèque SDL2 sous Visual Studio Code](Files/WINVSCodeCPPSDL2Project.zip)
+- [Projet C++ avec la bibliothèques OpenGL sous Visual Studio Code](Files/WINVSCodeCPPOGLProject.zip)
