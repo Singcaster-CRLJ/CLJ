@@ -43,7 +43,7 @@ Pour être plus distinguables des autres identificateurs, ceux des constantes do
 
 ### Variables
 
-Les identificateurs de données membres, de variables, de méthodes, et de fonctions, doivent utiliser la casse de chameau, c'est-à-dire commencer par un caractère minuscule, et utiliser un caractère majuscule au début des termes suivants :
+Les identificateurs de données membres, de variables, de méthodes, et de fonctions, doivent utiliser la casse de chameau « camel case », c'est-à-dire commencer par un caractère minuscule, et utiliser un caractère majuscule au début des termes suivants :
 
 ```cpp
 bool identificateurDeVariableBooleenne = true;
@@ -109,7 +109,7 @@ public:
 };
 ```
 
-L'indentation doit être faite avec des tabulations représentant 2 espaces.
+L'indentation doit être faite avec des tabulations.
 
 ### Accolades
 
