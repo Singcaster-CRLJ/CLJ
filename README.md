@@ -33,6 +33,7 @@ Fichiers utilitaires :
 ## Linux
 
 - [Projet C sous Visual Studio Code](Files/LINVSCodeCProject.zip)
+- [Projet C++ sous Visual Studio Code](Files/LINVSCodeCPPProject.zip)
 
 ## Windows
 
