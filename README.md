@@ -30,6 +30,10 @@ Guides d'installation :
 
 Fichiers utilitaires :
 
+## Linux
+
+- [Projet C sous Visual Studio Code](Files/LINVSCodeCProject.zip)
+
 ## Windows
 
 - [Projet C sous Visual Studio Code](Files/WINVSCodeCProject.zip)
