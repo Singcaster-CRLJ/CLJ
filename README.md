@@ -1,6 +1,6 @@
 ![CLJ](Images/logo.png)
 
-<br><p align="center"><b>Département d'informatique : Conception et développement d'applications.</b></p><br>
+<br><p style="text-align: center"><b>Département d'informatique : Conception et développement d'applications.</b></p><br>
 
 # Normes
 
@@ -37,6 +37,7 @@ Fichiers utilitaires :
 
 ## Windows
 
+- [Outils de développement Assembleur](Files/WINAssembly.zip)
 - [Projet C sous Visual Studio Code](Files/WINVSCodeCProject.zip)
 - [Projet C++ sous Visual Studio Code](Files/WINVSCodeCPPProject.zip)
 - [Projet C++ avec la bibliothèque SDL2 sous Visual Studio Code](Files/WINVSCodeCPPSDL2Project.zip)
