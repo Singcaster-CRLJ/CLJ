@@ -38,6 +38,7 @@ Fichiers utilitaires :
 ## MacOS
 
 - [Projet C sous Visual Studio Code](Files/MOSVSCodeCProject.zip)
+- [Projet C++ sous Visual Studio Code](Files/MOSVSCodeCPPProject.zip)
 
 ## Windows
 
