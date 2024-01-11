@@ -21,7 +21,6 @@ Guides d'installation :
 ## Windows
 
 - [Outils de développement C/C++](Documents/WINBuildTools.md)
-- [Bibliothèques SDL2 et GLEW](Documents/WINSDL2.md)
 - [Visual Studio Code](Documents/WINVSCode.md)
 - [Visual Studio Community 2022](Documents/WINVisualStudio.md)
 - [Git](Documents/WINGit.md)
@@ -44,6 +43,6 @@ Fichiers utilitaires :
 
 - [Outils de développement Assembleur](Files/WINAssembly.zip)
 - [Projet C sous Visual Studio Code](Files/WINVSCodeCProject.zip)
-- [Projet C++ sous Visual Studio Code](Files/WINVSCodeCPPProject.zip)
-- [Projet C++ avec la bibliothèque SDL2 sous Visual Studio Code](Files/WINVSCodeCPPSDL2Project.zip)
-- [Projet C++ avec la bibliothèques OpenGL sous Visual Studio Code](Files/WINVSCodeCPPOGLProject.zip)
+- [Projet C++ sous Visual Studio Code](Files/WINVSCCPP.zip)
+- [Projet C++ avec la bibliothèque SDL2 sous Visual Studio Code](Files/WINVSCSDL2.zip)
+- [Projet C++ avec la bibliothèques OpenGL sous Visual Studio Code](Files/WINVSCOGL4.zip)
