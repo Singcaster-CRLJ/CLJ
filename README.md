@@ -42,7 +42,7 @@ Fichiers utilitaires :
 ## Windows
 
 - [Outils de développement Assembleur](Files/WINAssembly.zip)
-- [Projet C sous Visual Studio Code](Files/WINVSCodeCProject.zip)
+- [Projet C sous Visual Studio Code](Files/WINVSCC.zip)
 - [Projet C++ sous Visual Studio Code](Files/WINVSCCPP.zip)
 - [Projet C++ avec la bibliothèque SDL2 sous Visual Studio Code](Files/WINVSCSDL2.zip)
 - [Projet C++ avec la bibliothèques OpenGL sous Visual Studio Code](Files/WINVSCOGL4.zip)
