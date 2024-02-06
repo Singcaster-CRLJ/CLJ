@@ -12,9 +12,9 @@ Tous les fichiers doivent avoir un en-tête :
 /// @authors Prénom Nom, Prénom Nom, ...
 ```
 
-## Classes
+## Structures et Classes
 
-Toutes les déclarations de classe doivent avoir un en-tête :
+Toutes les déclarations de structure et de classe doivent avoir un en-tête :
 
 ```cpp
 /// @class Classe
@@ -26,9 +26,9 @@ class Classe {
 };
 ```
 
-## Variables et Données membres
+## Données membres
 
-Toutes les variables et données membres doivent être suivies d'une brève description :
+Toutes les données membres doivent être suivies d'une brève description :
 
 ```cpp
 int variable; ///< Description.
