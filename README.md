@@ -2,6 +2,12 @@
 
 <br><p style="text-align: center"><b>Département d'informatique : Conception et développement d'applications.</b></p><br>
 
+# Informations
+
+Informations et outils :
+
+- [Cégep de Lanaudière à Joliette](Documents/CLJ.md)
+
 # Normes
 
 Normes départementales :
