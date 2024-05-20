@@ -11,7 +11,7 @@
 
 ## Techniques de l'informatique
 
-- [Site Web](stage.jolinfo.cegep-lanaudiere.qc.ca).
+- [Site Web](http://stage.jolinfo.cegep-lanaudiere.qc.ca/).
 - S'il vous reste 2 ans d'études, vous pouvez vous inscrire à l'ATE (Alternance Travail Étude), en contactant [Jean-François Benny](mailto:jean-francois.benny@cegep-lanaudiere.qc.ca).
 - Après chaque session réussie (pour un maximum de 6 fois), vous avez droit à la [bourse perspective](https://www.quebec.ca/education/aide-financiere-aux-etudes/bourses-perspective).
 
