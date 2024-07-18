@@ -22,7 +22,7 @@ Guides d'installation :
 
 ## Multiplateforme
 
- - [Logiciels Jetbrains (IntelliJ, CLion, PhpStorm, etc.)](Documents/Jetbrains.md)
+ - [Logiciels Jetbrains](Documents/Jetbrains.md)
 
 ## Windows
 
@@ -39,6 +39,7 @@ Fichiers utilitaires :
 
 - [Projet C sous Visual Studio Code](Files/LINVSCodeCProject.zip)
 - [Projet C++ sous Visual Studio Code](Files/LINVSCodeCPPProject.zip)
+- [Projet C++ avec la bibliothèque SDL 2 sous Visual Studio Code](Files/LINVSCodeSDL2.zip)
 
 ## MacOS
 
