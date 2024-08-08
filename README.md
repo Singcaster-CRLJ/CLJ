@@ -1,6 +1,6 @@
 ![CLJ](Images/logo.png)
 
-<br><p style="text-align: center"><b>Département d'informatique : Conception et développement d'applications.</b></p><br>
+<br><center><b>Département d'informatique : Conception et développement d'applications.</b></center><br>
 
 # Informations
 
@@ -45,6 +45,7 @@ Fichiers utilitaires :
 
 - [Projet C sous Visual Studio Code](Files/MOSVSCodeCProject.zip)
 - [Projet C++ sous Visual Studio Code](Files/MOSVSCodeCPPProject.zip)
+- [Projet C++ avec la bibliothèque SDL 2 sous Visual Studio Code](Files/MOSVSCodeSDL2Project.zip)
 
 ## Windows
 
