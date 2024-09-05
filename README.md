@@ -40,6 +40,7 @@ Fichiers utilitaires :
 - [Projet C sous Visual Studio Code](Files/LINVSCodeCProject.zip)
 - [Projet C++ sous Visual Studio Code](Files/LINVSCodeCPPProject.zip)
 - [Projet C++ avec la bibliothèque SDL 2 sous Visual Studio Code](Files/LINVSCodeSDL2.zip)
+- [Projet C++ avec la bibliothèque OpenGL 1 sous Visual Studio Code](Files/LINVSCodeOGL1.zip)
 
 ## MacOS
 
