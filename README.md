@@ -1,7 +1,5 @@
 ![CLJ](Images/logo.png)
 
-<br><center><b>Département d'informatique : Conception et développement d'applications.</b></center><br>
-
 # Informations
 
 Informations et outils :
@@ -37,16 +35,17 @@ Fichiers utilitaires :
 
 ## Linux
 
-- [Projet C sous Visual Studio Code](Files/LINVSCodeCProject.zip)
-- [Projet C++ sous Visual Studio Code](Files/LINVSCodeCPPProject.zip)
-- [Projet C++ avec la bibliothèque SDL 2 sous Visual Studio Code](Files/LINVSCodeSDL2.zip)
-- [Projet C++ avec la bibliothèque OpenGL 1 sous Visual Studio Code](Files/LINVSCodeOGL1.zip)
+- [Projet Assembleur sous Visual Studio Code](Files/LINVSCASM.zip)
+- [Projet C sous Visual Studio Code](Files/LINVSCC.zip)
+- [Projet C++ sous Visual Studio Code](Files/LINVSCCPP.zip)
+- [Projet C++ avec la bibliothèque SDL 2 sous Visual Studio Code](Files/LINVSCSDL2.zip)
+- [Projet C++ avec la bibliothèque OpenGL 1 sous Visual Studio Code](Files/LINVSCOGL1.zip)
 
 ## MacOS
 
-- [Projet C sous Visual Studio Code](Files/MOSVSCodeCProject.zip)
-- [Projet C++ sous Visual Studio Code](Files/MOSVSCodeCPPProject.zip)
-- [Projet C++ avec la bibliothèque SDL 2 sous Visual Studio Code](Files/MOSVSCodeSDL2Project.zip)
+- [Projet C sous Visual Studio Code](Files/MOSVSCC.zip)
+- [Projet C++ sous Visual Studio Code](Files/MOSVSCCPP.zip)
+- [Projet C++ avec la bibliothèque SDL 2 sous Visual Studio Code](Files/MOSVSCSDL2.zip)
 
 ## Windows
 
