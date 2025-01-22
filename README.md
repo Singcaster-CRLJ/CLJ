@@ -33,27 +33,6 @@ Guides d'installation :
 
 Fichiers utilitaires :
 
-## Linux
+## Programmation
 
-- [Projet Assembleur sous Visual Studio Code](Files/LINVSCASM.zip)
-- [Projet C sous Visual Studio Code](Files/LINVSCC.zip)
-- [Projet C++ sous Visual Studio Code](Files/LINVSCCPP.zip)
-- [Projet C++ avec la bibliothèque SDL 2 sous Visual Studio Code](Files/LINVSCSDL2.zip)
-- [Projet C++ avec la bibliothèque OpenGL 1 sous Visual Studio Code](Files/LINVSCOGL1.zip)
-
-## MacOS
-
-- [Projet Assembleur sous Visual Studio Code](Files/MOSVSCASM.zip)
-- [Projet C sous Visual Studio Code](Files/MOSVSCC.zip)
-- [Projet C++ sous Visual Studio Code](Files/MOSVSCCPP.zip)
-- [Projet C++ avec la bibliothèque SDL 2 sous Visual Studio Code](Files/MOSVSCSDL2.zip)
-- [Projet C++ avec la bibliothèque OpenGL 1 sous Visual Studio Code](Files/MOSVSCOGL1.zip)
-
-## Windows
-
-- [Projet Assembleur sous Visual Studio Code](Files/WINVSCASM.zip)
-- [Projet C sous Visual Studio Code](Files/WINVSCC.zip)
-- [Projet C++ sous Visual Studio Code](Files/WINVSCCPP.zip)
-- [Projet C++ avec la bibliothèque SDL 2 sous Visual Studio Code](Files/WINVSCSDL2.zip)
-- [Projet C++ avec la bibliothèque OpenGL 1 sous Visual Studio Code](Files/WINVSCOGL1.zip)
-- [Projet C++ avec la bibliothèque OpenGL 4 sous Visual Studio Code](Files/WINVSCOGL4.zip)
+- [Projet C sous Visual Studio Code](Files/VSCC.zip)
