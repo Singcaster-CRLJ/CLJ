@@ -36,3 +36,4 @@ Fichiers utilitaires :
 ## Programmation
 
 - [Projet C sous Visual Studio Code](Files/VSCC.zip)
+- [Projet C++ sous Visual Studio Code](Files/VSCCPP.zip)
