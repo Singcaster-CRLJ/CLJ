@@ -35,6 +35,4 @@ Fichiers utilitaires :
 
 ## Programmation
 
-- [Projet C sous Visual Studio Code](Files/VSCC.zip)
-- [Projet C++ sous Visual Studio Code](Files/VSCCPP.zip)
-- [Projet OpenGL en C++ sous Visual Studio Code](Files/VSCOGL.zip)
+- [Projets sous Visual Studio Code](https://github.com/Singcaster-CRLJ/CLJ/releases/tag/VSC)
