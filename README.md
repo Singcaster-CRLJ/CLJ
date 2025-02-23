@@ -18,6 +18,4 @@ Normes départementales :
 
 Fichiers utilitaires :
 
-## Programmation
-
-- [Projets sous Visual Studio Code](https://github.com/Singcaster-CRLJ/CLJ/releases/tag/VSC)
+- [Programmation](https://github.com/Singcaster-CRLJ/CLJ/releases/)
