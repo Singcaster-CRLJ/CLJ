@@ -18,4 +18,4 @@ Normes départementales :
 
 Fichiers utilitaires :
 
-- [Programmation](https://github.com/Singcaster-CRLJ/CLJ/releases/)
+- [Programmation](https://github.com/Singcaster-CRLJ/CLJ/releases/tag/VSC)
