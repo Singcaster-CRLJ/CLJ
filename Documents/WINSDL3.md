@@ -10,6 +10,4 @@ Bibliothèque de développement graphique.
 
 Dans un terminal « PowerShell » en mode administrateur, exécuter le script d'installation de la bibliothèque SDL3 :
 
-```
-C:\...\SDL3Install> .\Windows.ps1
-```
+![Script d'installation](../Images/PowerShellSDL3.png)
