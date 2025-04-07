@@ -1,12 +1,10 @@
 # Outils de développement C/C++
 
-Compilateur, lieur, débogueur, bibliothèques systèmes, etc.
+Compilateur, lieur, débogueur, et bibliothèques systèmes des langages C et C++.
 
 ## Téléchargement
 
-Télécharger le programme d'installation des outils de développement C/C++ :
-
-https://aka.ms/vs/17/release/vs_BuildTools.exe
+[Télécharger](https://aka.ms/vs/17/release/vs_BuildTools.exe) le programme d'installation des outils de développement C/C++.
 
 ## Installation
 

@@ -4,9 +4,7 @@
 
 ## Téléchargement
 
-Télécharger le programme d'installation de Visual Studio Code :
-
-https://code.visualstudio.com/docs/?dv=win64
+[Télécharger](https://code.visualstudio.com/docs/?dv=win64user) le programme d'installation de Visual Studio Code.
 
 ## Installation
 
@@ -42,6 +40,6 @@ Visual Studio Code est maintenant installé, cliquer sur le bouton « Terminer �
 
 Lors du premier démarrage, il est fort probable que Visual Studio Code demande d'installer le « Pack de langage » selon la langue de votre système d'exploitation.
 
-Dans l'onglet « Extensions » de Visual Studio Code, rechercher et installer aussi les extensions « C/C++ Extension Pack » et « Doxygen Documentation Generator ».
+Dans l'onglet « Extensions » de Visual Studio Code, rechercher et installer aussi l'extensions « C/C++ ».
 
 ![](../Images/WINVSCode8.png)
