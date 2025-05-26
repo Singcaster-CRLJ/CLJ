@@ -14,8 +14,8 @@ Normes départementales :
 - [Documentation](Documents/Doxygen.md)
 - [Versions](Documents/Git.md)
 
-# Fichiers
+# Programmation
 
-Fichiers utilitaires :
+Guides et projets :
 
-- [Programmation](https://github.com/Singcaster-CRLJ/CLJ/releases/tag/VSC)
+- [Visual Studio Code](https://github.com/Singcaster-CRLJ/CLJ/releases/tag/VSC)
