@@ -113,13 +113,11 @@ L'indentation doit être faite avec des tabulations.
 
 ### Accolades
 
-L'accolade ouvrante ( `{` ) doit être à la fin de la ligne et précédé d'un espace.
-
-Il est préférable d'utiliser des accolades même lorsqu'elles sont optionnelles dans le langage
+L'accolade ouvrante ( `{` ) doit être à la fin de la ligne et précédé d'un espace :
 
 ```cpp
-if (condition) {
-  instruction();
+if (proposition) {
+  // Instructions
 }
 ```
 
@@ -171,3 +169,4 @@ int fonction() {
   return -1;
 }
 ```
+
