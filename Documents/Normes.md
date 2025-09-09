@@ -97,13 +97,13 @@ class Classe {
 public:
   void methode(int valeurEntiere) {
     switch (valeurEntiere) {
-      default:
-        for (int i = 0; i < 1000; i++)
-          if (valeurEntiere < 42)
-            valeurEntiere++;
-          else
-            valeurEntiere--;          
-        break;
+    default:
+      for (int i = 0; i < 1000; i++)
+        if (valeurEntiere < 42)
+          valeurEntiere++;
+        else
+          valeurEntiere--;          
+      break;
     }
   }
 };
@@ -169,4 +169,5 @@ int fonction() {
   return -1;
 }
 ```
+
 
